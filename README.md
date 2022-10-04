@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mrunal Jambenal</h1>
-<h3 align="center">A passionate computer science student</h3>
+<h1 align="center">Hello!! coders <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h3 align="center">I am Mrunal Jambenal a passionate computer science student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrunal736&label=Profile%20views&color=0e75b6&style=flat" alt="mrunal736" /> </p>
 
@@ -33,3 +33,4 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrunal736&show_icons=true&theme=dark" alt="mrunal736" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrunal736&theme=dark" alt="mrunal736" /></p>
+
