@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mrunal Jambenal</h1>
 <h3 align="center">A passionate computer science student</h3>
-
+<img align="right" alt="coding" width="400" src="![coding_img](https://user-images.githubusercontent.com/79159212/193778228-28871723-c65a-43bb-897e-3b204cdf1578.gif)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrunal736&label=Profile%20views&color=0e75b6&style=flat" alt="mrunal736" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrunal736" alt="mrunal736" /></a> </p>
