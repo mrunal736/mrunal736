@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Rest API**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **REACTJS**
 
 - 👯 I’m looking to collaborate on **JAVA Full Stack**
 
